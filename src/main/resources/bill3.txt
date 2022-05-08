@@ -1,0 +1,2 @@
+Order ID: 3, 09-05-2022 00:05:27, client ID: 3
+Order price: 0

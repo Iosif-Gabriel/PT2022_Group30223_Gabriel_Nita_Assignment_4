@@ -1,0 +1,3 @@
+Order ID: 3, 08-05-2022 11:56:27, client ID: 3
+Title: 3-Ingredient Peppermint Rocky Road Candies, rating: 0.0, calories: 240, protein: 2, fat: 14, sodium: 9, price: 86
+Order price: 86
