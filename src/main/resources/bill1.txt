@@ -1,2 +1,4 @@
-Order ID: 1, 09-05-2022 00:05:21, client ID: 1
-Order price: 0
+Order ID: 1, 09-05-2022 10:17:55, client ID: 2
+Title: Baby Carrot Crudites with Green Onion and Mint Dip, rating: 3.75, calories: 103, protein: 1, fat: 9, sodium: 88, price: 75
+Title: Boursin and Bacon on Cracked Pepper Bread, rating: 4.375, calories: 767, protein: 9, fat: 43, sodium: 304, price: 100
+Order price: 175

@@ -1,3 +1,3 @@
-Order ID: 2, 08-05-2022 12:51:03, client ID: 1
-Title: Chocolatines, rating: 3.75, calories: 235, protein: 3, fat: 12, sodium: 99, price: 91
-Order price: 91
+Order ID: 2, 09-05-2022 10:10:44, client ID: 2
+Title: Rhubarb-Fennel Gin Cocktail, rating: 0.0, calories: 151, protein: 0, fat: 0, sodium: 7, price: 31
+Order price: 31

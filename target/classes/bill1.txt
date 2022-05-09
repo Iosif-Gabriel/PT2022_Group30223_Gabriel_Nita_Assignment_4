@@ -1,2 +1,3 @@
-Order ID: 1, 08-05-2022 12:51:00, client ID: 1
-Order price: 0
+Order ID: 1, 09-05-2022 10:10:37, client ID: 1
+Title: Rhubarb-Fennel Gin Cocktail, rating: 0.0, calories: 151, protein: 0, fat: 0, sodium: 7, price: 31
+Order price: 31
